@@ -1,0 +1,18 @@
+{
+    "name": "bjutxiaomei",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://bjutxiaomei.azurewebsites.net/",
+            "id": "24cd8720-31bd-11e9-81a3-8117609088f5",
+            "name": "https://bjutxiaomei.azurewebsites.net/"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Project\\Bot\\BJUTxiaomei\\BJUTxiaomei\\BJUTxiaomei.bot"
+}

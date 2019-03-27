@@ -1,0 +1,19 @@
+{
+    "name": "11",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "eb0c4540-dd47-4f83-8afd-4941c0941f18",
+            "appPassword": "zkfhqLSDN432*tnRVA22?^|",
+            "endpoint": "https://bjutxiaomei20190216052438.azurewebsites.net/api/messages",
+            "id": "13bddf80-31d0-11e9-badb-f7fef086c7df",
+            "name": "https://bjutxiaomei20190216052438.azurewebsites.net/api/messages",
+            "channelService": "https://botframework.azure.us"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Project\\Bot\\BJUTxiaomei\\BJUTxiaomei\\11.bot",
+    "overrides": null
+}

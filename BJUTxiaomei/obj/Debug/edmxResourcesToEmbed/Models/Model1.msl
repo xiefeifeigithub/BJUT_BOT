@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BJUT_test001ModelStoreContainer" CdmEntityContainer="BJUT_test001Entities">
+    <EntitySetMapping Name="Buildings">
+      <EntityTypeMapping TypeName="BJUT_test001Model.Buildings">
+        <MappingFragment StoreEntitySet="Buildings">
+          <ScalarProperty Name="BuildingsName" ColumnName="BuildingsName" />
+          <ScalarProperty Name="OpenHours" ColumnName="OpenHours" />
+          <ScalarProperty Name="AddressDescription" ColumnName="AddressDescription" />
+          <ScalarProperty Name="AddressImage" ColumnName="AddressImage" />
+          <ScalarProperty Name="Address3D" ColumnName="Address3D" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

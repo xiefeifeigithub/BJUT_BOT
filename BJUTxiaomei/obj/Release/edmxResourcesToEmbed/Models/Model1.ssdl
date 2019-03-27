@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BJUT_test001Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Buildings">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="OpenHours" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="AddressDescription" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="AddressImage" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Address3D" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="11" />
+  </EntityType>
+  <EntityContainer Name="BJUT_test001ModelStoreContainer">
+    <EntitySet Name="Buildings" EntityType="Self.Buildings" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

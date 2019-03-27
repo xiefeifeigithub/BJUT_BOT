@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BJUTxiaomei20190227100322" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Project\\Bot\\BJUTxiaomei\\BJUTxiaomei\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Project\\Bot\\BJUTxiaomei\\BJUTxiaomei\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BJUT_test001Entities-Web.config Connection String" description="" value="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=bjutsvr01.database.windows.net;initial catalog=BJUT_test001;persist security info=True;user id=xiefei;password=password01!;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Project\\Bot\\BJUTxiaomei\\BJUTxiaomei\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BJUT_test001Entities']/@connectionString" />
+  </parameter>
+</parameters>

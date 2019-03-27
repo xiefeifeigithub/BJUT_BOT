@@ -1,0 +1,18 @@
+{
+    "name": "bjut",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "d1430960-2e9f-11e9-939b-c9040dd6b815",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Project\\Bot\\BJUTxiaomei\\BJUTxiaomei\\BJUT.bot"
+}
