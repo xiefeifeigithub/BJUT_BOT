@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="BJUT_test001Entities-Web.config Connection String" description="BJUT_test001Entities 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=bjutsvr01.database.windows.net;initial catalog=BJUT_test001;persist security info=True;user id=xiefei;password=password01!;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Project\\Bot\\BJUTxiaomei\\BJUTxiaomei\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BJUT_test001Entities']/@connectionString" />
+  <parameter name="BJUT_test001Entities-Web.config Connection String" description="BJUT_test001Entities 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=MySql.Data.MySqlClient;provider connection string=&quot;server=cdb-1ts9gd6u.bj.tencentcdb.com;port=10113;user id=root;password=li199711;persistsecurityinfo=True;database=BJUT_test001&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\xiefe\\Desktop\\Software\\BJUTxiaomei\\BJUTxiaomei\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BJUT_test001Entities']/@connectionString" />
   </parameter>
 </parameters>

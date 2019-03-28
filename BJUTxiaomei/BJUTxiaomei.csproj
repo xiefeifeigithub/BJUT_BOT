@@ -191,8 +191,7 @@
     <Content Include="Models\Model1.edmx.diagram">
       <DependentUpon>Model1.edmx</DependentUpon>
     </Content>
-    <None Include="Properties\PublishProfiles\BJUTxiaomei20190216052438 - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\BJUTxiaomei20190227100322 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\BJUTxiaomei20190328110930 - Web Deploy.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

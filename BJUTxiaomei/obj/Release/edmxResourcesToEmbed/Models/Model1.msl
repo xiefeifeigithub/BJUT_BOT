@@ -4,12 +4,12 @@
     <EntitySetMapping Name="Buildings">
       <EntityTypeMapping TypeName="BJUT_test001Model.Buildings">
         <MappingFragment StoreEntitySet="Buildings">
+          <ScalarProperty Name="BuildingsName" ColumnName="BuildingsName" />
+          <ScalarProperty Name="OpenHours" ColumnName="OpenHours" />
+          <ScalarProperty Name="AddressDescription" ColumnName="AddressDescription" />
+          <ScalarProperty Name="AddressImage" ColumnName="AddressImage" />
           <ScalarProperty Name="Address3D" ColumnName="Address3D" />
           <ScalarProperty Name="Phone" ColumnName="Phone" />
-          <ScalarProperty Name="AddressImage" ColumnName="AddressImage" />
-          <ScalarProperty Name="AddressDescription" ColumnName="AddressDescription" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="OpenHours" ColumnName="OpenHours" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

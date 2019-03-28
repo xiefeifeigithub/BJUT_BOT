@@ -17,7 +17,7 @@ namespace BJUTxiaomei.Dialogs
         {
             var audioCard = new AudioCard
             {
-                Title = "I am your father",
+                Title = "I am your friend",
                 Subtitle = "Star Wars: Episode V - The Empire Strikes Back",
                 Text = "The Empire Strikes Back (also known as Star Wars: Episode V – The Empire Strikes Back) is a 1980 American epic space opera film directed by Irvin Kershner. Leigh Brackett and Lawrence Kasdan wrote the screenplay, with George Lucas writing the film's story and serving as executive producer. The second installment in the original Star Wars trilogy, it was produced by Gary Kurtz for Lucasfilm Ltd. and stars Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Kenny Baker, Peter Mayhew and Frank Oz.",
                 Image = new ThumbnailUrl
