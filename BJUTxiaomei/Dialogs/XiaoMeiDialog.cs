@@ -15,11 +15,9 @@ using CarouselCardsBot;
 
 namespace BJUTxiaomei.Dialogs
 {
-    //   [LuisModel("65e92e60-f04f-4e25-a744-b67900533d4c", "a4db9d3ff6eb4b0d8153356010df8fe5")]
+  
+     [LuisModel("46408068-5c5a-4ae7-9efe-e9fbbabee565", "fce0c7575f7e4b4bb2e60465e9eec0b2")]
 
-    //   [LuisModel("82ca2af8-eb84-4a09-8107-7718125bec21", "3871a80a5cd046a6b463d24c42b2e605")]
-
-    [LuisModel("cc79a7cc-a669-4b7d-884b-79b4e4391077", "1d84f0f1581d49b8b8506a526ba1ddde")]
     [Serializable]
     public class Xiaomei : LuisDialog<object>
     {       

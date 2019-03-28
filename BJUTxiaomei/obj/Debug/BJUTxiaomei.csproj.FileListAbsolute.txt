@@ -865,8 +865,8 @@ C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\bin\ko\System.Spatial.re
 C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\bin\ru\System.Spatial.resources.dll
 C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\obj\Debug\BJUTxiaomei.csprojAssemblyReference.cache
 C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\obj\Debug\BJUTxiaomei.csproj.CoreCompileInputs.cache
 C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\obj\Debug\BJUTxiaomei.csproj.CopyComplete
 C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\obj\Debug\BJUTxiaomei.dll
 C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\obj\Debug\BJUTxiaomei.pdb
+C:\Users\xiefe\Desktop\Software\BJUTxiaomei\BJUTxiaomei\obj\Debug\BJUTxiaomei.csprojAssemblyReference.cache

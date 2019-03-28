@@ -41,13 +41,6 @@ namespace BJUTxiaomei
             }
             else if (messageType == ActivityTypes.ConversationUpdate)
             {
-
-
-                //var attachment = GetVideoCard();
-                //message.Attachments.Add(attachment);
-                //ConnectorClient connector = new ConnectorClient(new Uri(message.ServiceUrl));
-                //await connector.Conversations.ReplyToActivityAsync(message);
-
                 var reply = message.CreateReply("Hello,我是小美\n" +
                     "现在，我可以完成以下任务.\n" +
                     "问路\n" +
@@ -61,9 +54,6 @@ namespace BJUTxiaomei
                 ConnectorClient connector = new ConnectorClient(new Uri(message.ServiceUrl));
                 await connector.Conversations.ReplyToActivityAsync(reply);
 
-                //// Handle conversation state changes, like members being added and removed
-                // Use Activity.MembersAdded and Activity.MembersRemoved and Activity.Action for info
-                // Not available in all channels
             }
             else if (messageType == ActivityTypes.ContactRelationUpdate)
             {
